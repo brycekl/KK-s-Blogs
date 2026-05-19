@@ -1,3 +1,12 @@
+### 项目（已脱敏）
+
+[基于三维光学扫描的小鼠骨骼与器官自动分割系统](https://paper-alibi-931.notion.site/29b040644bf8809980b7e0ae92c67e62?v=29b040644bf88057bf8f000c96ab4353)
+
+[基于交互式 Prompt 的医学图像分割系统优化](https://paper-alibi-931.notion.site/Prompt-SAM-2cc040644bf880fb84aec5ee5df7ede9?pvs=73)
+
+
+
+
 ### 计算机基础知识
 
 [编程语言C++/QT](https://www.notion.so/e9a0a3cb63474085ad92e81087a8b81b?pvs=21)
@@ -27,3 +36,4 @@
 [大模型](https://www.notion.so/3ac4bb7aa02b4caeb71f47da15b454d6?pvs=21)
 
 [深度学习复习笔记](https://www.notion.so/6d4c017e94f14ec988aa22cb8e3d26c4?pvs=21)
+
